@@ -5,7 +5,7 @@ export default function ParkingInfoScreen() {
   return (
     <View style={styles.container}>
       <Image
-        source={require('../assets/parking.jpeg')} // Asegúrate de que la imagen esté en la carpeta assets
+        source={require('../assets/parking4.png')} // Asegúrate de que la imagen esté en la carpeta assets
         style={styles.image}
         resizeMode="cover" // Ajusta la imagen para que ocupe toda la pantalla
       />

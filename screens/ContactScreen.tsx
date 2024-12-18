@@ -5,7 +5,7 @@ export default function ContactScreen() {
     return (
 
         <ImageBackground
-            source={require('../assets/parking.jpeg')} // Ruta de la imagen
+            source={require('../assets/parking2.png')} // Ruta de la imagen
             style={styles.background}
         >
             <View style={styles.container}>
